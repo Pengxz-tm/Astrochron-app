@@ -1,0 +1,173 @@
+{
+  "languages": ["cn", "en"],
+  "translation": [
+    {
+      "cn": "天        文        调        谐        软        件",
+      "en": "Astrochron"
+    },
+    {
+      "cn": "滤波",
+      "en": "Filter"
+    },
+    {
+      "cn": "去趋势",
+      "en": "Detrend"
+    },
+    {
+      "cn": "频谱分析",
+      "en": "Cross spectral"
+    },
+    {
+      "cn": "演化谱分析",
+      "en": "Evolution spectral"
+    },
+    {
+      "cn": "数据处理",
+      "en": "Manage data"
+    },
+    {
+      "cn": "峰值提取",
+      "en": "Trace peaks"
+    },
+    {
+      "cn": "谷值提取",
+      "en": "Trace valleys"
+    },
+    {
+      "cn": "数据分段提取",
+      "en": "Devide data"
+    },
+    {
+      "cn": "归一化",
+      "en": "Normalization"
+    },
+    {
+      "cn": "滤波组合",
+      "en": "Compose filter"
+    },
+    {
+      "cn": "曲线对比",
+      "en": "Comparison"
+    },
+    {
+      "cn": "调谐效果",
+      "en": "Tuning effect"
+    },
+    {
+      "cn": "振幅及包络线",
+      "en": "Envolope"
+    },
+    {
+      "cn": "开发完善",
+      "en": "Complete"
+    },
+    {
+      "cn": "开发中",
+      "en": "Exploring"
+    },
+    {
+      "cn": "完善中",
+      "en": "Developing"
+    },
+    {
+      "cn": "日照量",
+      "en": "Insolation"
+    },
+    {
+      "cn": "天文参数",
+      "en": "Astronomical parameters"
+    },
+    {
+      "cn": "累计日照量",
+      "en": "Intergrated insolation"
+    },
+    {
+      "cn": "日照量时空分布",
+      "en": "Insolation in time and space"
+    },
+    {
+      "cn": "条件日照量",
+      "en": "Required insolation"
+    },
+    {
+      "cn": "滤波最小周期 (千年)",
+      "en": "the min of period (kyr)"
+    },
+    {
+      "cn": "滤波最大周期 (千年)",
+      "en": "the max of period (kyr)"
+    },
+    {
+      "cn": "去除的最小周期 (千年)",
+      "en": "Detrend period (kyr)"
+    },
+    {
+      "cn": "开始",
+      "en": "begin"
+    },
+    {
+      "cn": "时间宽带积",
+      "en": "time band width"
+    },
+    {
+      "cn": "绘制最大频率",
+      "en": "the max of plot frequency"
+    },
+    {
+      "cn": "绘制最小频率",
+      "en": "the mix of plot frequency"
+    },
+    {
+      "cn": "绘制指标最小值",
+      "en": "the min of ploting indicator"
+    },
+     {
+      "cn": "滑动窗口",
+      "en": "sliding windows"
+    },
+    {
+      "cn": "步长",
+      "en": "step"
+    },
+    {
+      "cn": "y轴方向",
+      "en": "y direction"
+    },
+    {
+      "cn": "反方向",
+      "en": "Reverse"
+    },
+    {
+      "cn": "正方向",
+      "en": "Normal"
+    },
+     {
+      "cn": "色板",
+      "en": "palette"
+    },
+    {
+      "cn": "彩虹",
+      "en": "rainbow"
+    },
+    {
+      "cn": "灰度",
+      "en": "greyscale"
+    },
+    {
+      "cn": "蓝度",
+      "en": "bluescale"
+    },
+    {
+      "cn": "红度",
+      "en": "redscale"
+    },
+    {
+      "cn": "蓝红色",
+      "en": "red-blue scale"
+    },
+    {
+      "cn": "绘制指标最大值",
+      "en": "the max of ploting indicator"
+    }
+  ]
+}
